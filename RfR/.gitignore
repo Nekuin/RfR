@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# contents
+Content/Paragonprops/*
+Content/KiteDemo/*
+Content/ParagonRevenant/*
+Content/SampleMap/*
